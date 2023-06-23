@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>17262262622-ae8l2ont98gooh2rm6anmgim5k8uovuq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.17262262622-ae8l2ont98gooh2rm6anmgim5k8uovuq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>17262262622-n7hjmn360dmp4l6do2ad7kp1g4t1rkov.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANbX7GM-VQaZ43k_yseafb2H8yiM-UN90</string>
+	<key>GCM_SENDER_ID</key>
+	<string>17262262622</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.phonenuberlogin</string>
+	<key>PROJECT_ID</key>
+	<string>loginpage-dc917</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginpage-dc917.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:17262262622:ios:e17f46cb0595ff51f0b7cf</string>
+	<key>DATABASE_URL</key>
+	<string>https://loginpage-dc917-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
