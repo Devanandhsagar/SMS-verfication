@@ -1,6 +1,5 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:phonenuberlogin/homepage.dart';
 import 'loginpage.dart';
 import 'firebase_options.dart';
 
@@ -17,8 +16,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return   MaterialApp(debugShowCheckedModeBanner: false,
-      initialRoute: 'login',routes: {
-      'login':(context) => const Login(),'home':(context)=>const Homepage()
+      initialRoute: 'Login',routes: {
+      'Login':(context) => const Login(),
       },
       home: const Login(),
 
